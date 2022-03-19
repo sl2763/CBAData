@@ -1,0 +1,55 @@
+﻿Online/In store,Location,Brand,Type,Product,Size,Processing,Price,Shelf life
+In store,Stop & Shop,Nature's Promise,Organic,2% Reduced Fat Milk,Half-gallon,Ultra-pasteurized,3.49,90
+In store,Stop & Shop,Nature's Promise,Organic,Fat Free Milk,Half-gallon,Ultra-pasteurized,3.49,90
+In store,Stop & Shop,Nature's Promise,Organic,Whole Milk,Half-gallon,Ultra-pasteurized,3.49,90
+In store,Stop & Shop,Nature's Promise,Organic,1% Low Fat Milk,Half-gallon,Ultra-pasteurized,3.49,90
+In store,Stop & Shop,Horizon Organic,Organic,2% Reduced Fat Milk,Half-gallon,Ultra-pasteurized,5.29,90
+In store,Stop & Shop,Horizon Organic,Organic,1% Low Fat Milk,Half-gallon,Ultra-pasteurized,6.19,90
+In store,Stop & Shop,Stonyfield,Organic,Fat Free Milk,Half-gallon,Ultra-pasteurized,5.19,90
+In store,Stop & Shop,Stonyfield,Organic,1% Low Fat Milk,Half-gallon,Ultra-pasteurized,5.19,90
+In store,Stop & Shop,Stonyfield,Organic,2% Reduced Fat Milk,Half-gallon,Ultra-pasteurized,5.19,90
+In store,Stop & Shop,Stonyfield,Organic,Whole Milk,Half-gallon,Ultra-pasteurized,5.19,90
+Online,Wegmans,Wegmans ,Conventional,2% Reduced Fat Milk,Half-gallon,HTST,2.49,21
+Online,Wegmans,Wegmans ,Conventional,1% Low Fat Milk,Half-gallon,HTST,2.39,21
+Online,Wegmans,Wegmans ,Conventional,Fat Free Milk,Half-gallon,HTST,2.39,21
+Online,Wegmans,Wegmans ,Conventional,Whole Milk,Half-gallon,HTST,2.69,21
+Online,Wegmans,Wegmans ,Organic,Whole Milk,Half-gallon,HTST,3.29,21
+Online,Wegmans,Wegmans ,Organic,2% Reduced Fat Milk,Half-gallon,HTST,3.29,21
+Online,Wegmans,Wegmans ,Organic,1% Low Fat Milk,Half-gallon,HTST,3.29,21
+Online,Wegmans,Wegmans ,Organic,Fat Free Milk,Half-gallon,HTST,3.29,21
+Online,Wegmans,Organic Valley,Organic,Whole Milk,Half-gallon,Ultra-pasteurized,5.99,90
+Online,Wegmans,Organic Valley,Organic,2% Reduced Fat Milk,Half-gallon,Ultra-pasteurized,5.99,90
+Online,Key Food,Horizon Organic,Organic,Whole Milk,Half-gallon,Ultra-pasteurized,5.99,90
+Online,Key Food,Amish Country Farms ,Organic,Whole Milk,Half-gallon,Ultra-pasteurized,5.89,90
+Online,Key Food,Amish Country Farms ,Organic,2% Reduced Fat Milk,Half-gallon,Ultra-pasteurized,6.89,90
+Online,Key Food,Stonyfield,Organic,Fat Free Milk,Half-gallon,Ultra-pasteurized,5.89,90
+Online,Key Food,Stonyfield,Organic,1% Low Fat Milk,Half-gallon,Ultra-pasteurized,5.89,90
+Online,Key Food,Stonyfield,Organic,2% Reduced Fat Milk,Half-gallon,Ultra-pasteurized,5.89,90
+Online,Key Food,Stonyfield,Organic,Whole Milk,Half-gallon,Ultra-pasteurized,5.89,90
+Online,Key Food,Sunshine Farms,Organic,Whole Milk,Half-gallon,Ultra-pasteurized,4.99,90
+Online,Key Food,Sunshine Farms,Organic,Fat Free Milk,Half-gallon,Ultra-pasteurized,5.99,90
+Online,Key Food,Sunshine Farms,Organic,2% Reduced Fat Milk,Half-gallon,Ultra-pasteurized,4.99,90
+In store,Wegmans,Organic Valley,Organic,2% Reduced Fat Milk,Half-gallon,Ultra-pasteurized,5.99,90
+In store,Wegmans,Wegmans ,Organic,Fat Free Milk,Half-gallon,HTST,3.49,21
+In store,Wegmans,Wegmans ,Organic,1% Low Fat Milk,Half-gallon,HTST,3.49,21
+In store,Wegmans,Wegmans ,Organic,2% Reduced Fat Milk,Half-gallon,HTST,3.49,21
+In store,Wegmans,Wegmans ,Organic,Whole Milk,Half-gallon,HTST,3.49,21
+In store,Wegmans,Organic Valley,Organic,Whole Milk,Half-gallon,Ultra-pasteurized,5.49,90
+In store,Wegmans,Organic Valley,Organic,2% Reduced Fat Milk,Half-gallon,Ultra-pasteurized,5.49,90
+In store,Stop & Shop,Stop & Shop,Conventional,Whole Milk,Half-gallon,HTST,2.69,21
+In store,Stop & Shop,Stop & Shop,Conventional,2% Reduced Fat Milk,Half-gallon,HTST,2.59,21
+In store,Stop & Shop,Stop & Shop,Conventional,1% Low Fat Milk,Half-gallon,HTST,2.59,21
+In store,Stop & Shop,Dairy Pure,Conventional,2% Reduced Fat Milk,Half-gallon,HTST,3.39,21
+In store,Stop & Shop,Dairy Pure,Conventional,Whole Milk,Half-gallon,HTST,3.39,21
+In store,Stop & Shop,Dairy Pure,Conventional,Fat Free Milk,Half-gallon,HTST,3.19,21
+Online,Key Food,Cream-O-Land,Conventional,Whole Milk,Half-gallon,HTST,2.39,21
+Online,Key Food,Cream-O-Land,Conventional,1% Low Fat Milk,Half-gallon,HTST,2.39,21
+Online,Key Food,Cream-O-Land,Conventional,2% Reduced Fat Milk,Half-gallon,HTST,2.39,21
+Online,Key Food,Cream-O-Land,Conventional,Fat Free Milk,Half-gallon,HTST,2.39,21
+Online,Acme,Rosenberger's Dairies,Conventional,Whole Milk,Half-gallon,HTST,3.49,21
+Online,Acme,Rosenberger's Dairies,Conventional,2% Reduced Fat Milk,Half-gallon,HTST,3.49,21
+Online,Acme,Lucerne Dairy Farms,Conventional,Fat Free Milk,Half-gallon,HTST,3.09,21
+Online,Acme,Rosenberger's Dairies,Conventional,1% Low Fat Milk,Half-gallon,HTST,3.49,21
+Online,Acme,Lucerne Dairy Farms,Conventional,Whole Milk,Half-gallon,HTST,3.09,21
+Online,Acme,Lucerne Dairy Farms,Conventional,2% Reduced Fat Milk,Half-gallon,HTST,3.09,21
+Online,Acme,Lucerne Dairy Farms,Conventional,1% Low Fat Milk,Half-gallon,HTST,3.09,21
